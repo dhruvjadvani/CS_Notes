@@ -1,3 +1,3 @@
 # REST API
 ## Video Playlist
-- https://youtu.be/ST8XxjOTIsg
+- https://www.youtube.com/watch?v=ST8XxjOTIsg&list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu
